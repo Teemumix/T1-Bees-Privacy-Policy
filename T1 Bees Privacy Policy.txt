@@ -1,0 +1,46 @@
+﻿T1 Bees Privacy Policy
+
+
+Effective Date: November 29, 2023
+
+
+T1 Bees ("we," "us," or "our") respects your privacy and is committed to protecting any information collected through our game available on Google Play. This privacy policy explains how we collect, use, and disclose information when you use our game.
+
+
+Information Collection and Use
+
+
+Our game may utilize Google's advertising services to display ads. Please note that these ads are provided by third-party advertisers, and they may collect certain information to serve personalized ads based on your interests. This information may include but is not limited to:
+
+
+- Device identifiers (e.g., Advertising ID)
+- IP address
+- Cookies and similar technologies
+- Usage data related to ad performance
+
+
+We do not collect, store, or process any personal information directly from our users. Any data collected by third-party advertisers through the ads displayed in our game is subject to their respective privacy policies.
+
+
+Third-Party Services
+
+
+Our game may contain links to external websites or services that are not operated by us. We have no control over the content and practices of these third-party services and encourage you to review their privacy policies.
+
+
+Children's Privacy
+
+
+Our game does not knowingly collect any personal information from children under the age of 13. If you believe that we may have inadvertently collected personal information from a child under 13, please contact us immediately, and we will take steps to remove that information from our systems.
+
+
+Changes to This Privacy Policy
+
+
+We reserve the right to update our privacy policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this privacy policy periodically for any changes.
+
+
+Contact Us
+
+
+If you have any questions or concerns about our privacy policy, please contact us at teemu.s.flink@gmail.com
